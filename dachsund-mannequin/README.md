@@ -1,1 +1,1 @@
-![](./dachsund-mannequin/dachsund-mannequin.png)
+![](./dachsund-mannequin.png)
